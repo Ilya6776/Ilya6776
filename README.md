@@ -1,5 +1,5 @@
 ### Hi there 👋
 
- Меня зовут Илья   
- Я являюсь студентом Политеха, обучаюсь на направление радиотехники
+I'm Ilya
+ I am a student at the Polytechnic University, studying radio engineering.
 
